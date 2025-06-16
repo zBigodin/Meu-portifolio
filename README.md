@@ -17,5 +17,10 @@ Adicionei colunas e os meu projetos, também adicionei o link do  GitHub no fina
 
 12/06/2025
 
-Portfólio v1.0 (versão final);
+Portfólio v1.0 (versão semi-final);
 Coloquei cores nas letras, estava pensando em colocar mais coisas. Mas por preguiça não mudei tudo que eu queria.
+
+16/06/2025
+
+Portfólio v1.2 (correções)
+Corrigi algumas linhas do codigo, percebi que tinha um monte de erro.
